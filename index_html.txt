@@ -1,0 +1,9 @@
+<1DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+  <p>Hello semua, saya sedang belajar git</p>
+</body>
+</head>
